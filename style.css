@@ -8,5 +8,12 @@ font-size: 30px;
 }
 
 td{
-    background-color: pink;
+    background-color: darkgreen;
+}
+
+#keses {
+    background-color: red;
+}
+.elso_oszlop{
+    background-color: aqua;
 }
