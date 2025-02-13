@@ -1,0 +1,19 @@
+table{
+    border:4px solid black ;
+    background-color: blue;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+
+}
+body{
+    background-color:black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+tbody{
+    background-color: aqua;
+}
+#Kesés{
+    background-color:  red;
+}
