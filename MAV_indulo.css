@@ -12,8 +12,14 @@ body{
 
 }
 tbody{
-    background-color: aqua;
+    background-color: tomato;
 }
-#Kesés{
+#keso_indulo_vonat{
     background-color:  red;
+}
+tbody tr:nth-child(even) {
+    background-color: salmon;
+}
+th {
+    background-color: crimson;
 }
